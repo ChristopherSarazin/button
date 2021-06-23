@@ -1,0 +1,21 @@
+#first{
+    border-style: solid teal;
+    border-radius: 35%;
+    color: teal;
+    background-color: white;
+    display: block;
+    margin: 10px 10px;
+}
+#sec{
+    background-color: teal;
+    border-radius: 50%;
+    color: white;
+    display: block;
+    margin: 10px 10px;
+}
+#third{
+    background-color: blue;
+    color: white;
+    margin: 10px 10px;
+    text-shadow: black;
+}
